@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stack on Trident Chronicles</title>
+    <title>Stack on Kushagra - Portfolio</title>
     <link>https://kushagra-six.vercel.app/stack/</link>
-    <description>Recent content in Stack on Trident Chronicles</description>
+    <description>Recent content in Stack on Kushagra - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://kushagra-six.vercel.app/stack/index.xml" rel="self" type="application/rss+xml" />
