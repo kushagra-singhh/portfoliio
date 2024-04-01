@@ -6,6 +6,14 @@
     <description>Recent content in Homepage on Kushagra - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kushagra-six.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aromatique Balance : Fork-it Hackathon 2nd Runner Up</title>
+      <link>https://kushagra-six.vercel.app/portfolio/fork_it_hackathon/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://kushagra-six.vercel.app/portfolio/fork_it_hackathon/</guid>
+      <description>Aromatique Balance Team Team Name: Cryptonyts Team Leader Namer: Kushagra Singh Email Id: contact@kushagrasingh.co Kushagra Satyam Joysa Nishita Check out Website!: Project Repository https://github.com/kushagra-singhh/AromatiqueBalance&#xA;Presentation Aromatique Balance by Cryptonyts Description AromatiqueBalance is a Flask web application designed to help users overcome various mental issues through aromatherapy. This app utilizes the power of Flask, a lightweight Python web framework, to provide an intuitive and user-friendly interface for accessing aromatherapy suggestions.&#xA;Technologies Used Flask Python FlavorDB API HTML/CSS Features Mental Issue Identification: Users can input their mental health concerns or issues into the app.</description>
+    </item>
   </channel>
 </rss>
